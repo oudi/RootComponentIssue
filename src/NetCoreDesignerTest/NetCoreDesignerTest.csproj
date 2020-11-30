@@ -10,4 +10,8 @@
     <ProjectReference Include="..\NetCoreDesigner\NetCoreDesigner.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="RootViewSampleComponent.cs" />
+  </ItemGroup>
+
 </Project>
